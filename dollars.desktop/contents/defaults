@@ -1,20 +1,6 @@
-[kdeglobals][KDE]
-widgetStyle=breeze
+[kscreenlockerrc][Greeter]
+Theme=drrr
 
-[kdeglobals][General]
-ColorScheme=Breeze Dark
-
-[kdeglobals][Icons]
-Theme=breeze
-
-[plasmarc][Theme]
-name=oxygen
-
-[kcminputrc][Mouse]
-cursorTheme=breeze_cursors
-
-[kwinrc][WindowSwitcher]
-LayoutName=org.kde.breeze.desktop
-
-[kwinrc][DesktopSwitcher]
-LayoutName=org.kde.breeze.desktop
+[ksplashrc][KSplash]
+Engine=KSplashQML
+Theme=drrr

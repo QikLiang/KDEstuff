@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=Dollars
+Description=Login theme based on anime durarara
+Author=Qi Liang
+Type=sddm-theme
+Version=0.1
+Screenshot=screenshot.jpeg
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=Dollars
+Theme-API=2.0

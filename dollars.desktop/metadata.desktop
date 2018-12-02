@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=Lock screen theme based on anime Durarara
+Encoding=UTF-8
+Keywords=Look and Feel;Lock
+Name=drrr
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Qi Liang
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=drrr
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-Plasma-MainScript=defaults
